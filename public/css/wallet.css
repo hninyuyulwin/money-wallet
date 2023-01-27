@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color:  #5A5A5A;
+}
+.banner {
+    background: url('../images/banner.webp') no-repeat center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+    margin-top: -4%;
+}
+.banner-text{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.main-visual{
+    margin-top: 2rem;
+}
+.card-part{
+    margin-bottom: -18px;
+}
